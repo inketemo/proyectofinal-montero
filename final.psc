@@ -86,7 +86,7 @@ Leer cerrar;
 	si relleno1 = 1 Entonces 
 		Escribir "carne de res 100 pesos"; 
 	sino 
-		Escribir "carne de pollo pesos";
+		Escribir "carne de pollo 100 pesos";
 	FinSi
 	si bebida1 = 1 Entonces 
 		Escribir "con cerveza 100 pesos"; 
